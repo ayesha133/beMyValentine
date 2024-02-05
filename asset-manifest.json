@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/beMyValentine/static/css/main.a878c9b8.chunk.css",
+    "main.js": "/beMyValentine/static/js/main.30c99d0c.chunk.js",
+    "main.js.map": "/beMyValentine/static/js/main.30c99d0c.chunk.js.map",
+    "runtime~main.js": "/beMyValentine/static/js/runtime~main.cc5cb266.js",
+    "runtime~main.js.map": "/beMyValentine/static/js/runtime~main.cc5cb266.js.map",
+    "static/css/2.cc82f8aa.chunk.css": "/beMyValentine/static/css/2.cc82f8aa.chunk.css",
+    "static/js/2.ce455bf1.chunk.js": "/beMyValentine/static/js/2.ce455bf1.chunk.js",
+    "static/js/2.ce455bf1.chunk.js.map": "/beMyValentine/static/js/2.ce455bf1.chunk.js.map",
+    "static/js/3.d5f86460.chunk.js": "/beMyValentine/static/js/3.d5f86460.chunk.js",
+    "static/js/3.d5f86460.chunk.js.map": "/beMyValentine/static/js/3.d5f86460.chunk.js.map",
+    "index.html": "/beMyValentine/index.html",
+    "precache-manifest.12992b810efdbc7b0277ac044088490b.js": "/beMyValentine/precache-manifest.12992b810efdbc7b0277ac044088490b.js",
+    "service-worker.js": "/beMyValentine/service-worker.js",
+    "static/css/2.cc82f8aa.chunk.css.map": "/beMyValentine/static/css/2.cc82f8aa.chunk.css.map",
+    "static/css/main.a878c9b8.chunk.css.map": "/beMyValentine/static/css/main.a878c9b8.chunk.css.map",
+    "static/media/flowerCouch.jpg": "/beMyValentine/static/media/flowerCouch.dbe129e6.jpg",
+    "static/media/stickMan.png": "/beMyValentine/static/media/stickMan.8d1fcd03.png",
+    "static/media/twoBear.gif": "/beMyValentine/static/media/twoBear.9655eec1.gif"
+  }
+}
