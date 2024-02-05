@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6e741f0b57a8d55d866c155ed14288f8",
+    "revision": "4753a3e26e8069881897cf63635d6363",
     "url": "/beMyValentine/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/beMyValentine/static/css/2.cc82f8aa.chunk.css"
   },
   {
-    "revision": "bce171e49cdcb964940a",
+    "revision": "7fbd8d1c5b4f4c598439",
     "url": "/beMyValentine/static/css/main.a878c9b8.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/beMyValentine/static/js/3.d5f86460.chunk.js"
   },
   {
-    "revision": "bce171e49cdcb964940a",
-    "url": "/beMyValentine/static/js/main.30c99d0c.chunk.js"
+    "revision": "7fbd8d1c5b4f4c598439",
+    "url": "/beMyValentine/static/js/main.4c5f05bb.chunk.js"
   },
   {
     "revision": "58b583bfaa369871b390",

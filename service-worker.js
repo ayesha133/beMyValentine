@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/beMyValentine/precache-manifest.12992b810efdbc7b0277ac044088490b.js"
+  "/beMyValentine/precache-manifest.b03087d9018ed52c0d89c34468fd4ad4.js"
 );
 
 self.addEventListener('message', (event) => {
