@@ -67,7 +67,7 @@ function App() {
               variant="danger"
               className="no-button"
               style={{ left: buttonPosition.left, top: buttonPosition.top }}
-              onMouseOver={handleNoButtonHover}
+              onPointerEnter={handleNoButtonHover}
             >
               {phrases[currentPhraseIndex]}
             </Button>
